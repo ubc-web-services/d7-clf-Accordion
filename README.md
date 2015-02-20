@@ -17,5 +17,5 @@ Associated classes are:
 
 # Applying the field format to your field
 
-1. While editing content type to can apply UBC Accordion field formatting to your Link Field in the Manage Display
-2. When adding Link field to view - you can apply UBC Accordion field formatting in the field setting
+1. While editing content type you can apply UBC Accordion field formatting to your text or term reference field in the Manage Display
+2. When adding text or term reference field to view - you can apply UBC Accordion field formatting in the field setting
