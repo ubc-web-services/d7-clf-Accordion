@@ -1,3 +1,4 @@
+
 ##UBC Accordion Field Formatter
 
 A custom field formatter that outputs the field content into accordion (markup and behaviour).
