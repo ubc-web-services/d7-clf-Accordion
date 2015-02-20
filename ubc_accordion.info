@@ -1,0 +1,7 @@
+name = UBC Accordion Field Formatter
+description = "A custom field formatter that outputs the field content into accordion (markup)"
+package = UBC IT Web Services
+
+core = 7.x
+files[] = ubc_accordion_field_formatter.module
+
